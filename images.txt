@@ -4,3 +4,4 @@ garethflowers/svn-server
 python:3.8.19
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+MySQL:5.7
